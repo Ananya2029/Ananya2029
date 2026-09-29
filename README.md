@@ -13,6 +13,7 @@
 | Project | What it does | Highlights |
 |---|---|---|
 | [**Predictive Maintenance & Monitoring**](https://github.com/Ananya2029/predictive-maintenance-mlops) | Predicts machine failures from sensor data and monitors the model in production | **92.6%** of failures caught, **−68%** maintenance cost; FastAPI, Evidently drift alerts, MLflow, Docker, CI |
+| [**Wafer Defect Pattern Detection**](https://github.com/Ananya2029/wafer-defect-detection-) | Detects 8 semiconductor wafer defect patterns, including overlapping ones | CNN **98.5%** exact match vs **79.2%** for hand-crafted features; Grad-CAM explanations + root-cause hints |
 | [**E-commerce Data Pipeline**](https://github.com/Ananya2029/ecommerce-data-pipeline) | Bronze/silver/gold warehouse and star schema from 1.55M rows of Olist data | **28** automated data-quality checks; SQL cohorts, RFM, Pareto; found late deliveries drop reviews from **4.2★ to 1.7★** |
 | [**Retail Demand Forecasting**](https://github.com/Ananya2029/Retail-Demand-Forecasting-with-Festival-and-Social-Media-Trend-Integration) | Weekly sales forecasts for 45 Walmart stores with festival features | Found and fixed target leakage; leak-free XGBoost is **27% more accurate than the naive baseline** (WMAPE 3.6%) |
 | [**Multimodal Product Recommendation**](https://github.com/Ananya2029/multimodal-product-rec) | Recommends products from photos + titles, with image and text encoders trained from scratch | Compares 6 fusion methods and 3 optimizers; FastAPI + Streamlit; 50 automated tests |
