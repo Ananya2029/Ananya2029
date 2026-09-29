@@ -12,6 +12,7 @@
 
 | Project | What it does | Highlights |
 |---|---|---|
+| [**Predictive Maintenance & Monitoring**](https://github.com/Ananya2029/predictive-maintenance-mlops) | Predicts machine failures from sensor data and monitors the model in production | **92.6%** of failures caught, **−68%** maintenance cost; FastAPI, Evidently drift alerts, MLflow, Docker, CI |
 | [**Retail Demand Forecasting**](https://github.com/Ananya2029/Retail-Demand-Forecasting-with-Festival-and-Social-Media-Trend-Integration) | Weekly sales forecasts for 45 Walmart stores with festival features | Found and fixed target leakage; leak-free XGBoost is **27% more accurate than the naive baseline** (WMAPE 3.6%) |
 | [**Multimodal Product Recommendation**](https://github.com/Ananya2029/multimodal-product-rec) | Recommends products from photos + titles, with image and text encoders trained from scratch | Compares 6 fusion methods and 3 optimizers; FastAPI + Streamlit; 50 automated tests |
 | [**Customer Churn Intelligence**](https://github.com/Ananya2029/SignalGraph-Churn-Intelligence-Platform) | Predicts telecom churn and explains each prediction | XGBoost, ROC-AUC **0.84**, catches **78%** of churners; per-customer SHAP explanations |
