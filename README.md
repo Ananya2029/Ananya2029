@@ -17,8 +17,14 @@
 | [**Customer Churn Intelligence**](https://github.com/Ananya2029/SignalGraph-Churn-Intelligence-Platform) | Predicts telecom churn and explains each prediction | XGBoost, ROC-AUC **0.84**, catches **78%** of churners; per-customer SHAP explanations |
 | [**IT Service Desk Ticket Routing**](https://github.com/Ananya2029/it-service-desk-mlops) | Routes support tickets to the right team via a REST API | TF-IDF + Logistic Regression, **87%** on ambiguous tickets; FastAPI, deployable on Render |
 | [**DressAI — Zero-Shot Fashion Classifier**](https://github.com/Ananya2029/DressAI-CLIP-ZeroShot-Classifier) | Classifies clothing into 20 categories without training | OpenAI CLIP + Gradio app |
-| [**Art Style Classifier**](https://github.com/Ananya2029/art-style-classifier) | Predicts a painting's art movement and recommends similar artists | Transfer learning on 12 movements; Streamlit app |
+| [**Art Style Classifier**](https://github.com/Ananya2029/art-style-classifier) | Predicts a painting's art movement and recommends similar artists | MobileNetV3 on 12 movements, **62.1%** test accuracy (8.3% by chance); Streamlit app |
+| [**Bengaluru Weather Forecasting**](https://github.com/Ananya2029/bengaluru-weather-forecasting) | Next-day temperature and rain forecasts from 4 years of station data | Found and repaired **147 faulty sensor readings**, halving forecast error; rain ROC-AUC **0.90** |
+| [**Stock Price Forecasting**](https://github.com/Ananya2029/stock-price-forecasting-lstm-transformer) | 7-day AAPL forecasts with LSTM and Transformer (PyTorch) | Predicts returns to fix extrapolation and leakage; Transformer beats the naive baseline, **58.6%** directional accuracy |
+| [**Dress Type Classification**](https://github.com/Ananya2029/dress-type-classification-efficientnet) | Classifies DeepFashion2 dress types | EfficientNetB0 transfer learning, Grad-CAM explanations, Flask app + REST API |
+| [**California House Prices**](https://github.com/Ananya2029/california-house-price-prediction) | Predicts district house values | 5-fold CV model comparison, tuned HistGradientBoosting, test R² **0.83** |
 | [**Amazon Sales Dashboard**](https://github.com/Ananya2029/Amazon-Sales-Dashboard) | Interactive sales, customer and payment analytics | Power BI, DAX, Power Query |
+
+**ML internship projects (Prodigy InfoTech):** [Cats vs Dogs Classifier](https://github.com/Ananya2029/Cats-vs-Dogs-Classifier) (SVM 54% → CNN 88.7%) · [Hand Gesture Recognition](https://github.com/Ananya2029/Hand-Gesture-Recognition) (MediaPipe, real-time) · [House Price Prediction](https://github.com/Ananya2029/House-Price-Prediction)
 
 More: [Deep Learning notebooks](https://github.com/Ananya2029/Deep_Learning_Project) (CNNs, LSTMs) · [RNNs from numbers to sentences](https://github.com/Ananya2029/RNN)
 
