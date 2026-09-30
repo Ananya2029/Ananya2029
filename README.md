@@ -28,6 +28,14 @@
 | [**California House Prices**](https://github.com/Ananya2029/california-house-price-prediction) | Predicts district house values | 5-fold CV model comparison, tuned HistGradientBoosting, test R² **0.83** |
 | [**Amazon Sales Dashboard**](https://github.com/Ananya2029/Amazon-Sales-Dashboard) | Interactive sales, customer and payment analytics | Power BI, DAX, Power Query |
 
+### 📊 Data Science & Statistics
+
+| Project | Question | Highlights |
+|---|---|---|
+| [**A/B Test Analysis**](https://github.com/Ananya2029/ab-test-analysis) | Did moving a mobile game's first gate hurt player retention? (90k players) | 7-day retention **−0.82 pp** (p = 0.002, Holm-corrected); sample-ratio check, bootstrap + Bayesian analysis, power/MDE; simulation shows peeking raises false positives **5.7% → 25.7%** |
+| [**Causal Impact of Late Delivery**](https://github.com/Ananya2029/causal-late-delivery) | How much does a late delivery *cause* review scores to drop? | Propensity scores, IPW, matching and doubly robust AIPW agree on **≈ −1.9★**; covariate balance checked (max SMD 0.37 → 0.09); E-value **12.4** for sensitivity |
+| [**Insurance Cost Statistics**](https://github.com/Ananya2029/insurance-cost-statistics) | What really drives medical insurance costs? | Effect sizes with CIs (smokers: Cohen's d **3.16**); found a confounder and a **smoker × obesity interaction (+$19.9k)**; regression adj. R² **0.86** with assumption checks |
+
 **Smaller ML projects:** [Cats vs Dogs Classifier](https://github.com/Ananya2029/Cats-vs-Dogs-Classifier) (SVM 54% → CNN 88.7%) · [Hand Gesture Recognition](https://github.com/Ananya2029/Hand-Gesture-Recognition) (MediaPipe, real-time) · [House Price Prediction](https://github.com/Ananya2029/House-Price-Prediction)
 
 More: [Deep Learning notebooks](https://github.com/Ananya2029/Deep_Learning_Project) (CNNs, LSTMs) · [RNNs from numbers to sentences](https://github.com/Ananya2029/RNN)
@@ -40,7 +48,7 @@ More: [Deep Learning notebooks](https://github.com/Ananya2029/Deep_Learning_Proj
 
 **Data analysis:** Pandas, NumPy, EDA, data cleaning, feature engineering
 
-**Statistics:** Descriptive & inferential statistics, probability, hypothesis testing, regression
+**Statistics:** Hypothesis testing, effect sizes, A/B testing (power, SRM, Bayesian), causal inference (propensity scores, IPW, AIPW), regression diagnostics
 
 **Machine learning:** Scikit-learn, XGBoost, LightGBM, time-series forecasting, model evaluation, SHAP
 
