@@ -1,4 +1,4 @@
-# Hi, I'm Ananya 👋
+# Hi, I'm Ananya 
 
 **MSc Data Science student at Dayananda Sagar University, Bangalore** — I build end-to-end machine learning projects and care about evaluating them honestly: leak-free features, time-aware splits, and always beating a baseline before claiming a result.
 
