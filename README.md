@@ -3,8 +3,7 @@
 **MSc Data Science student at Dayananda Sagar University, Bangalore** — I build end-to-end machine learning projects and care about evaluating them honestly: leak-free features, time-aware splits, and always beating a baseline before claiming a result.
 
 - 🎓 MSc Data Science (2025–2027) · BCA (2022–2025)
-- 💼 Machine Learning Intern — Prodigy InfoTech · Web Developer Intern — Zephyr Technologies
-- 🔭 Currently: MLOps (model monitoring, APIs, Docker), data engineering with PySpark, and GenAI / RAG
+- 🔭 Currently: MLOps (model monitoring, APIs, Docker), data engineering with PySpark, and GenAI / RAG 
 
 ---
 
