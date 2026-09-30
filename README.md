@@ -37,12 +37,19 @@ More: [Deep Learning notebooks](https://github.com/Ananya2029/Deep_Learning_Proj
 ### 🛠 Skills
 
 **Languages:** Python, SQL
+
 **Data analysis:** Pandas, NumPy, EDA, data cleaning, feature engineering
+
 **Statistics:** Descriptive & inferential statistics, probability, hypothesis testing, regression
+
 **Machine learning:** Scikit-learn, XGBoost, LightGBM, time-series forecasting, model evaluation, SHAP
+
 **Deep learning & GenAI:** PyTorch, TensorFlow / Keras, CNNs, RNNs / LSTMs, Transformers, CLIP, embeddings
+
 **Visualization & BI:** Power BI, Tableau, Excel, Matplotlib, Seaborn, Plotly
+
 **Apps & MLOps:** Streamlit, FastAPI, Flask, Git, GitHub
+
 **Databases:** MySQL, MongoDB
 
 ---
