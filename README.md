@@ -28,7 +28,7 @@
 | [**California House Prices**](https://github.com/Ananya2029/california-house-price-prediction) | Predicts district house values | 5-fold CV model comparison, tuned HistGradientBoosting, test R² **0.83** |
 | [**Amazon Sales Dashboard**](https://github.com/Ananya2029/Amazon-Sales-Dashboard) | Interactive sales, customer and payment analytics | Power BI, DAX, Power Query |
 
-**ML internship projects (Prodigy InfoTech):** [Cats vs Dogs Classifier](https://github.com/Ananya2029/Cats-vs-Dogs-Classifier) (SVM 54% → CNN 88.7%) · [Hand Gesture Recognition](https://github.com/Ananya2029/Hand-Gesture-Recognition) (MediaPipe, real-time) · [House Price Prediction](https://github.com/Ananya2029/House-Price-Prediction)
+**Smaller ML projects:** [Cats vs Dogs Classifier](https://github.com/Ananya2029/Cats-vs-Dogs-Classifier) (SVM 54% → CNN 88.7%) · [Hand Gesture Recognition](https://github.com/Ananya2029/Hand-Gesture-Recognition) (MediaPipe, real-time) · [House Price Prediction](https://github.com/Ananya2029/House-Price-Prediction)
 
 More: [Deep Learning notebooks](https://github.com/Ananya2029/Deep_Learning_Project) (CNNs, LSTMs) · [RNNs from numbers to sentences](https://github.com/Ananya2029/RNN)
 
